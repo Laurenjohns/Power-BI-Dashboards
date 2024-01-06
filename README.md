@@ -30,7 +30,7 @@ End
 ### Brokerage Dashboard
 
 Project Overview: Interactive dashboard using data that includes seven clients from around the world, and brokerage data spanning four years.
-Utilizing DAX Measurments on the gauge visuals for minimum and maximum values. 
+Utilizing DAX Measurements on gauge visuals for minimum and maximum values. 
 
 ```dax
 M0 - 0
