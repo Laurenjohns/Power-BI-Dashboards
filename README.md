@@ -26,7 +26,7 @@ while (@i < 1999)
             select * from boiler; 
 End 
 ```
-
+---
 ### Brokerage Dashboard
 
 Project Overview: Interactive dashboard using data that includes seven clients from around the world, and brokerage data spanning four years.
@@ -36,7 +36,7 @@ Utilizing DAX Measurements on gauge visuals for minimum and maximum values.
 M0 - 0
 M6 - .06
 ```
-
+---
 ### Forecasting Global Temperatures 
 
 Project Overview: Interactive dashboard using global temperature data to create a forecast.
