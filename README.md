@@ -21,9 +21,9 @@ declare @i int = 0;
 while (@i < 1999)
    begin 
        waitfor delay '00:00:01'
-            Set @i = @i + 1; 
-            Insert into boiler select * from BoilerPlantSmall where time = @1; 
-            Select * from boiler; 
+            set @i = @i + 1; 
+            insert into boiler select * from BoilerPlantSmall where time = @1; 
+            select * from boiler; 
 End 
 ```
 
