@@ -8,7 +8,7 @@
 ---
 ### Boiler Plant Simulation 
 
-Project Overview:  Real-time simulation of a boiler plant using SQL Server to store boiler information per second and display in a Power BI dashboard.
+Project Overview:  Real-time simulation of a boiler plant using SQL Server to store boiler information per second.
 The below query will create a blank table with all the columns of the Boiler table, use a loop to insert data from the main table into this blank table, simulating real-time monitoring.
 
 ```sql
