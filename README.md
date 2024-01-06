@@ -13,7 +13,7 @@ The below query will create a blank table with all the columns of the Boiler tab
 
 ```sql
 insert into boiler select * from BoilerPlantSmall where time = 1; 
-select * from Boiler; 
+select * from boiler; 
 
 delete from boiler; 
 declare @i int = 0;
