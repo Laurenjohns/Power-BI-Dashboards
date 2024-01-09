@@ -5,6 +5,8 @@
 - [Boiler Plant Simulation](#boiler-plant-simulation)
 - [Brokerage Dashboard](#brokerage-dashboard)
 - [Forecasting Global Temperatures](#forecasting-global-temperatures)
+- [Call Center Performance Simulation](#call-center-performance-simulation)
+  
 ---
 ### Boiler Plant Simulation 
 
@@ -91,7 +93,7 @@ while 1==1:
     cursor.commit()
     time.sleep(1)
 ```
-Insert Command via SQL Server
+Insert Command via SQL Server Example
 
 ```sql
 insert into issues values (111,'Billing and payment issues')
