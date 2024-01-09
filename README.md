@@ -46,7 +46,7 @@ Project Overview: Interactive dashboard using global temperature data to create 
 ---
 ### Call Center Performance Simulation
 
-Project Overview: Real-Time performance monitoring of a call center using Python, Microsoft SQL Server, and Power BI. The simulation will generate random calls from customers and store the call center information in a Microsoft SQL server database for performance monitoring. Utilizing the insert command and connect Python to the SQL server for automatic data entry.
+Project Overview: Real-Time performance monitoring of a call center using Python, Microsoft SQL Server, and Power BI. The simulation will generate random calls from customers and store the call center information in a Microsoft SQL server database for performance monitoring. Utilizing the insert command and connecting Python to the SQL server for automatic data entry.
 
 ```python
 import datetime
